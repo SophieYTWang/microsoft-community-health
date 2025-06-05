@@ -1,6 +1,6 @@
-# Reddit Scraper
+# Getting Data from Reddit
 
-A Python-based tool for scraping and analyzing posts from Reddit subreddits. This script collects various metrics about posts including upvotes, comments, timestamps, and more, saving the data to an Excel file for further analysis.
+A Python-based tool for getting and analyzing posts from Reddit subreddits. This script collects various metrics about posts including upvotes, comments, timestamps, and more, saving the data to an Excel file for further analysis.
 
 ## Prerequisites
 
